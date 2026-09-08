@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "sku": "GODOX-AD200PRO-II",
+    "brand": "Godox",
+    "name": "Godox AD200 Pro II",
+    "category": "portable_flash",
+    "price": 316,
+    "power_ws": 200,
+    "portable": true,
+    "ttl": true,
+    "hss": true,
+    "stock": 8,
+    "use_cases": [
+      "wedding photography",
+      "portrait photography",
+      "location photography"
+    ],
+    "description": "Portable 200Ws flash suitable for location and portrait photography."
+  },
+  {
+    "id": 2,
+    "sku": "GODOX-AD400PRO-II",
+    "brand": "Godox",
+    "name": "Godox AD400PRO-II",
+    "category": "portable_flash",
+    "price": 603,
+    "power_ws": 400,
+    "portable": true,
+    "ttl": true,
+    "hss": true,
+    "stock": 5,
+    "use_cases": [
+      "wedding photography",
+      "portrait photography",
+      "commercial photography"
+    ],
+    "description": "400Ws portable outdoor and studio flash."
+  },
+  {
+    "id": 3,
+    "sku": "GODOX-AD800PRO",
+    "brand": "Godox",
+    "name": "Godox AD800 Pro",
+    "category": "portable_flash",
+    "price": 819,
+    "power_ws": 800,
+    "portable": true,
+    "ttl": true,
+    "hss": true,
+    "stock": 3,
+    "use_cases": [
+      "commercial photography",
+      "location photography",
+      "large group photography"
+    ],
+    "description": "800Ws professional outdoor and studio battery flash."
+  },
+  {
+    "id": 4,
+    "sku": "GODOX-V1PRO",
+    "brand": "Godox",
+    "name": "Godox V1 Pro",
+    "category": "on_camera_flash",
+    "price": 261,
+    "power_ws": 76,
+    "portable": true,
+    "ttl": true,
+    "hss": true,
+    "stock": 10,
+    "use_cases": [
+      "wedding photography",
+      "event photography",
+      "portrait photography"
+    ],
+    "description": "Round-head TTL camera flash for event and wedding photography."
+  },
+  {
+    "id": 5,
+    "sku": "GODOX-X3PRO",
+    "brand": "Godox",
+    "name": "Godox X3Pro",
+    "category": "trigger",
+    "price": 79,
+    "portable": true,
+    "stock": 15,
+    "use_cases": [
+      "wireless flash",
+      "off-camera lighting"
+    ],
+    "description": "Compact wireless flash trigger."
+  },
+  {
+    "id": 6,
+    "sku": "LENCARTA-OCTA95",
+    "brand": "Lencarta",
+    "name": "Lencarta 95cm Octa Softbox",
+    "category": "modifier",
+    "price": 89,
+    "portable": true,
+    "stock": 20,
+    "use_cases": [
+      "portrait photography",
+      "wedding photography",
+      "studio photography"
+    ],
+    "description": "95cm octagonal softbox for controlled soft lighting."
+  }
+]
