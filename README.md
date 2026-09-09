@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image Sep 9, 2026, 08_04_43 AM" src="https://github.com/user-attachments/assets/fb967935-8b51-4762-ad5e-a923f8761807" />
 
 **Agentic Commerce POC — AI-powered Photography Shopping Assistant**
 
